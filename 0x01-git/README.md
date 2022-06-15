@@ -1,1 +1,1 @@
-my second commit
+my first and second commit are completed
